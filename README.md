@@ -32,7 +32,7 @@ Currently it consists of:
 - alternatively you can run the script I prepared `./scripts/cp_idl.sh`
 - (!) IMPORTANT - run `yarn` inside the root of the repo
 - finally start the apps!
-    - eg cd into `app/gem-bank` and run yarn && yarn serve
+    - eg cd into `app/gem-bank` and run yarn && yarn build
 - don't forget to open Chrome's console with `CMD+SHIFT+I` to get feedback from the app when you click buttons. It currently doesn't have a notifications system
 
 # Docs ✏️
